@@ -1,0 +1,152 @@
+.logo > span, .logo > img {
+	line-height: 40px;
+	vertical-align: middle;
+	margin-right: 10px;
+}
+
+#banner img.image {
+	height: auto;
+	width: 100% !important;
+	margin-left: 0;
+}
+
+.features article.full-width {
+	width: 100%;
+	margin: 0 0 3em 3em;
+}
+
+.carousel-fw {
+	border-radius: 10px;
+}
+
+.testimonials {
+	position: relative;
+}
+
+.testimonials > img {
+	position: absolute;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+
+.testimonials > div.content {
+	position: relative;
+	z-index: 2;
+	margin-bottom: 1.5em;
+}
+
+.testimonials > div.content span {
+	display: block;
+	text-align: right;
+	margin: 0 100px;
+	color: #fff;
+}
+
+.no-border {
+	border: 0 !important;
+}
+
+.no-padding-top {
+	padding-top: 0 !important;
+}
+
+.m-b-zero {
+	margin-bottom: 0 !important;
+}
+
+.m-b-md {
+	margin-bottom: 1em;
+}
+.m-b-lg {
+	margin-bottom: 2em;
+}
+
+.m-t-md {
+	margin-top: 1em;
+}
+
+blockquote {
+  margin: 1.5em 100px 0;
+  border-left-color: #fff;
+  color: #fff;
+  padding: 0.5em 10px;
+  quotes: "\201C""\201D""\2018""\2019";
+}
+blockquote:before {
+  color: #fff;
+  content: open-quote;
+  font-size: 4em;
+  line-height: 0.1em;
+  margin-right: 0.25em;
+  vertical-align: -0.4em;
+}
+blockquote p {
+  display: inline;
+}
+
+img.fit {
+	width: 100%;
+}
+
+/*slick overrides*/
+
+.slick-prev, .slick-next {
+	box-shadow: none;
+}
+
+.slick-prev:before, .slick-next:before {
+	color: #f76b6b;
+}
+
+@media (min-width: 1278px) {
+	.carousel-fw {
+		width: 800px;
+		margin: 0 auto;
+	}
+}
+
+.card span.header {
+	display: inline-block !important;
+}
+
+.card div.image img {
+	height: 250px !important;
+	width: auto !important;
+	min-width: 100%;
+}
+
+.card div.image {
+	overflow: hidden;
+}
+
+#menu > ul > li > ul {
+	display: block;
+}
+
+.button.special.small {
+	font-size: 0.6em !important;
+	border-radius: 0.375em;
+	height: 3.5em;
+	padding: 0 2.25em !important;
+}
+
+.button.special.small > span {
+	line-height: 3.5em;
+	vertical-align: middle;
+}
+
+.primary {
+	background-color: #f56a6a !important;
+	color: white !important;
+}
+
+.error {
+	color: #e57373;
+}
+
+#banner .image.inline {
+    margin: 0 !important; 
+    width: 35% !important;
+}

@@ -1,0 +1,385 @@
+/*============================================================================
+			RESPONSIVE CSS WITH MEDIA 
+=============================================================================*/
+
+/*=============  MEDIA 1400px   =============*/
+@media(min-width:1200px) and (max-width:1400px) {
+.box-wide {
+	width: 100% !important;
+}
+}
+/*=============  MEDIA 1200px   =============*/
+@media(max-width:1200px) {
+.box-wide {
+	width: 100% !important;
+}
+}
+
+
+
+
+￼A Luxuriate Voyage FEBRUARY 5, 2020 | MOHIT BHATT
+In this blog, Mohit Bhatt covers his journey from being a part of the part of the team to leading it.
+
+READ MORE
+Our Inspiration
+/*=============  MEDIA 1024px   =============*/
+@media(max-width:1024px) {
+.box-wide {
+	width: 100% !important;
+}
+}
+/*=============  MEDIA 992px - 1199px   =============*/
+@media(min-width:992px) and (max-width:1199px) {
+.box-wide {
+	width: 100% !important;
+}
+.bnr-txt{
+	width: 50%;
+}
+.bnr-txt.left-text{
+	width: 50%;
+}
+.donatores li.become-donor .btn{
+	width: 100%;
+	padding: 10px 0;
+}
+.donatores li.become-donor .donor-details{
+	padding: 20px 10px;
+}
+.testi h3{
+	margin-top: 90px;
+}
+.testi-slides {
+	margin-bottom: 0px;
+}
+.countdown span{
+	width: 45px;
+}
+}
+/*=============  MEDIA 768px - 991px   =============*/
+@media(min-width:768px) and (max-width:991px) {
+.box-wide {
+	width: 100% !important;
+}
+.bnr-txt{
+	width: 65%;
+}
+.bnr-txt.left-text{
+	width: 65%;
+}
+.no-padding-l{
+	padding:0px; 
+}
+.amount{
+	padding-bottom: 0px;
+}
+.donate-price{
+	padding-bottom: 20px;
+}
+.help-fea {
+  padding-top: 126px;
+  padding-left: 25px;
+}
+.how-can-help .img-responsive{
+	margin-top: 130px;
+
+}
+.donatores li .donor-details{
+	margin-bottom: 30px;
+}
+
+.video-blog{
+	margin-bottom: 30px;
+}
+.with-bg-drk:before{
+	left: -30%;
+}
+footer .shadow{
+	box-shadow: none;
+}
+footer .rights{
+	margin-top: 0px;
+}
+footer h6{
+	margin-top: 85px;
+}
+.donate-price .tabii-price{
+	text-align: center;
+}
+.help-fea:before{
+	width: 288px;
+}
+.process{
+	display: none;
+	height: auto;
+	margin-top: 0px;
+}
+.process li{
+	margin-bottom: 30px;
+}
+.what-we .program{
+	margin-top: 50px;
+}
+.shop li img{
+	width: 100%;
+}
+}
+/*=============  MEDIA 767px   =============*/
+@media(max-width:767px) {
+.what-we .program{
+	margin-top: 50px;
+}
+.process{
+	display: none;
+}
+.no-padding-l{
+	padding:0px; 
+}
+.shop li img{
+	width: 100%;
+}
+.box-wide {
+	width: 100% !important;
+}
+.amount{
+	padding: 10px 20px; 	
+}
+.cases li{
+	margin-bottom: 30px;
+}
+footer .subcribe{
+	margin-bottom: 10px;
+}
+footer .rights{
+	margin-top: 0px;
+}
+.donate-price{
+	padding-bottom: 20px;
+}
+.process{
+	height: auto;
+	margin-top: 0px;
+}
+.video-blog{
+	margin-bottom: 30px;
+}
+footer h6{
+	margin-top: 30px;
+}
+footer .padding-l-60{
+	padding-left: 15px;
+}
+footer .social_icons{
+	position: relative;
+	margin-bottom: 10px;
+}
+.ownmenu > li > a{
+	margin:0px;
+}
+.help-fea{
+	padding-top: 20px;
+}
+.help-fea:before{
+	top: 20px;
+}
+.ownmenu > li.showhide span.icon{
+	color:#fff;
+	padding:0px;
+	margin:0px;
+	width:100%;
+	text-align:center;
+	font-size:25px;
+}
+.ownmenu > li.showhide{
+	height:auto;
+	margin:0px;
+	padding:0px;
+	line-height:60px;
+	height:60px;
+}
+header nav li a{
+	display:inline-block;
+	width:100%;
+	float:none;
+}
+header .nav-img{
+	display:none !important;
+}
+.ownmenu > li.showhide span{
+	line-height:60px;
+	display:inline-block;
+	width:100%;
+}
+.ownmenu > li.showhide span.title{
+	margin:0px;
+}
+.ownmenu > li > a{
+	padding:10px 0;
+}
+.ownmenu .indicator{
+	display:block;
+}
+header .ownmenu ul.dropdown{
+	background:none;
+}
+#banner{
+	height:230px;
+}
+#banner .bnr-txt{
+	width:100%;
+	left:0px;
+	padding:0 30px;
+	right:inherit;
+}
+.flex-direction-nav a{
+	display:none;
+}
+.bnr-txt h1{
+	font-size:30px;
+	line-height:40px;
+}
+.bnr-txt h1 span{
+	color:#fff;
+	font-weight:normal;
+}
+.bnr-txt hr{
+	display:none;
+}
+.bnr-txt p{
+	padding-bottom:20px;
+}
+.donatores li .donor-details{
+	margin-bottom: 30px;
+}
+.top-bar{
+	height: auto;
+}
+.top-bar .right-bar-side{
+	float: left;
+}
+.donation-pop{
+	width: 100%;
+}
+.fea-service li a{
+	margin-bottom: 20px;
+	display: inline-block;
+	width: 100%;
+}
+#banner img{
+	width: 200%;
+}
+.bnr-txt.left-text{
+	top: 10%;
+}
+.event-filter h6{
+	width: 100%;
+	text-align: center;
+}
+.filter-type .col-sm-4{
+	width: 100%;
+}
+.bootstrap-select{
+	width: 100%;
+}
+.filter-type{
+	width: 100%;
+}
+.event-pages .events li{
+	padding-right: 0px;
+	padding: 15px 0;
+}
+.proud{
+	padding: 60px 20px;
+}
+.total-cart{
+	margin-top: 30px;
+}
+.gallery-pages .item{
+}
+.gallery-item{
+	text-align: center;
+}
+.gallery-item li{
+	width: 50%;
+
+}
+.blog-pages .pagination{
+	margin-top: -100px;
+}
+.blog-pages .side-bar{
+	margin-top: 50px;
+}
+.error-page{
+	text-align: center;
+}
+.error-text h2{
+	margin-top: 30px;
+}
+.error-text .search{
+	padding: 0px;
+}
+}
+/*=============  MEDIA 600px   =============*/
+@media (max-width:640px) {
+.event-in .up-com-event .col-xs-5{
+	width: 100%;
+}
+.event-in .up-com-event .col-xs-5 img{
+	width: 100%;
+	margin-bottom: 10px;
+}
+.event-in .up-com-event .col-xs-7{
+	width: 100%;
+}
+#banner img{
+	width: 200%;
+}
+#banner .bnr-txt{
+	top: 10%;
+}
+.cases-pages .filter{
+	width: 100%;
+	text-align: center;
+}
+.cases .list-grid li{
+	margin-bottom: 0px;
+}
+.cases-pages .filter li a{
+	padding-left: 0px;
+	padding-right: 0px;
+}
+.gallery-item li{
+	width: 100%;
+
+}
+.gallery-item li img{
+	width: 100%;
+
+}
+}
+/*=============  MEDIA 540px   =============*/
+@media(max-width:540px) {
+header .logo{
+	width: 100%;
+	text-align: center;
+}
+header .btn-right{
+	float: none;
+	width: 100%;
+	text-align: center;
+}
+header .btn-right .btn{
+	margin-top: 0px;
+	margin-bottom: 20px;
+}
+#banner img{
+	width: 115%;
+}
+}
+/*=============  MEDIA 400px   =============*/
+@media(max-width:440px) {
+}
+/*=============  MEDIA 320px   =============*/
+@media(max-width:320px) {
+}
